@@ -1,0 +1,17 @@
+.env
+*.p8
+*.pem
+*.key
+*.tar
+*.zip
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+crash.log
+__pycache__/
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+dbt/.user.yml
